@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ✨ Want to see my [Resume](https://drive.google.com/file/d/1zN_RdtZ61skkSVJr4z3yxNr4AzdEMS5H/view)
 
 ### See my profiles 🔍
+- [Codeforces](https://codeforces.com/profile/umang_20)
+- [Leetcode](https://leetcode.com/umang_20/)
+- [GFG](https://auth.geeksforgeeks.org/user/umangag235/)
 
 
 ### Contact me 📞
