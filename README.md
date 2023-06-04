@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here is the passionate developer. **#Openforinternship**
 - ✨ Want to see my [Resume](https://drive.google.com/file/d/1zN_RdtZ61skkSVJr4z3yxNr4AzdEMS5H/view)
 
 ### See my profiles 🔍
