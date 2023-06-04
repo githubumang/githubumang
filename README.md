@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 - ✨ Want to see my [Resume](https://drive.google.com/file/d/1zN_RdtZ61skkSVJr4z3yxNr4AzdEMS5H/view)
 
+### See my profiles 🔍
+
+
 ### Contact me 📞
 - 📞 +91 7895636020
 - 📧 umanggg100@gmail.com
