@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 👋  
+**I'm Umang Agrawal, a passionate developer who loves solving problems and building impactful projects.**
 
-Here is the passionate developer.
 - ✨ Want to see my [Resume](https://drive.google.com/file/d/1kLfiFjPeQxXDF0JWpHWxL7UclPObyeDM/view)
 
 ### See my profiles 🔍
